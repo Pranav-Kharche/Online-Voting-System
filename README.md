@@ -4,18 +4,24 @@ Online Voting System is a project made in Advance Java using concepts of Servlet
 favourite candidate online & admin will display voting results, providing a most secured & user friendly online voting system.
 
 Technology: J2EE, JDBC
+--------------------------------------------------------
 Client Side Technology: HTML, CSS, JavaScript
+--------------------------------------------------------
 Server Side Technology: Servlets, JSP
+--------------------------------------------------------
 Database: MySQL
+---------------------------------------------------------
 Local Server: Apache Tomcat server 9.0
-IDE Used: Net Beans & Eclipse 
-
+---------------------------------------------------------
+IDE Used: Net Beans & Eclipse
+--------------------------------------------------------
 Developed By: Pranav Kharche & Swapnil Chougule
+----------------------------------------------------------
 
 Features:
 1) Registration
 2) Admin:
-      -View Voter list
+      -View Voter lis
       -View Candidate list
       -View PoliticalParty list
       -Activate voter & party account
@@ -28,4 +34,4 @@ Features:
 5) Voter
       -View PoliticalParty list
       -View Candidate list
-      -Vote   
+      -Vote
